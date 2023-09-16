@@ -1,0 +1,15 @@
+.nav-wrap {
+  background-color: #123A29;
+  padding: 10px 0;
+}
+.nav-wrap .nav-img {
+  text-align: center;
+}
+.nav-wrap .nav-img img {
+  width: 200px;
+}
+@media screen and (max-width: 768px) {
+  .nav-wrap .nav-img img {
+    width: 150px;
+  }
+}/*# sourceMappingURL=nav.css.map */

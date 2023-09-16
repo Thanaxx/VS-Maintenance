@@ -1,0 +1,15 @@
+@import '../style/variables/var.scss';
+
+.footer-wrap{
+    background-color: #fff9f5;
+    border-top: 1px solid #b6b6b650;
+    padding: 15px 0;
+
+    .footer-img{
+        text-align: center;
+
+        img{
+            margin: 0 5px;
+        }
+    }
+}
