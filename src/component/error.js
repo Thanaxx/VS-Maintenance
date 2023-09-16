@@ -11,7 +11,7 @@ function error() {
                 <p>Dear valued guest, <br />
                     To enhance your experience while navigating our website, you may direct all
                     inquiries and comments to our official Facebook page: VS Hotel.
-                    For any other concerns, contact our Reservations team at +63917-456-7890. <br/>
+                    For any other concerns, contact our Reservations team at +63927-370-6269. <br/>
 
                     Thank you and we hope to see you soon!
                 </p>
